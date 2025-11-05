@@ -1,5 +1,4 @@
 # EX 2D BACKTRACKING - GRAPH COLORING PROBLEM
-## DATE:
 ## AIM:
 To solve the Graph Coloring Problem using backtracking, assigning colors to the vertices of a graph such that no two adjacent vertices share the same color while minimizing the number of colors used.
 
@@ -20,8 +19,8 @@ To solve the Graph Coloring Problem using backtracking, assigning colors to the 
 ```py
 /*
 Program to implement Graph Coloring Problem using backtracking.
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 class Graph:
     def __init__(self,vertices):
