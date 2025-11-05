@@ -1,5 +1,5 @@
 # EX 2C BACKTRACKING- SUBSET SUM PROBLEM
-## DATE:
+
 ## AIM:
 To find the number of subsets in an array whose sum is equal to a given target sum using recursion.
 
@@ -19,8 +19,8 @@ To find the number of subsets in an array whose sum is equal to a given target s
 ```py
 /*
 Program to implement Subset sum problem.
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 def subsetSum(arr, n, i,sum, count):
 #Write your code here
