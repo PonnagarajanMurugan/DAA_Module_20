@@ -1,5 +1,5 @@
 # EX 2B BACKTRACKING - NQUEEN PROBLEM
-## DATE:
+
 ## AIM:
 To solve the N-Queen problem using backtracking, which places N queens on an N*N chessboard such that no two queens threaten each other.
 
@@ -19,8 +19,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 ```py
 /*
 Program to implement N-Queen problem using backtracking.
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 global N
 N = int(input())
