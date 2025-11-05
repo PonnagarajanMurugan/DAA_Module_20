@@ -1,5 +1,4 @@
 # EX 2A BACKTRACKING - RAT IN MAZE PROBLEM
-## DATE:
 ## AIM:
 To find a path from the top-left to the bottom-right corner of a maze using backtracking, marking the path in a solution matrix.
 
@@ -19,8 +18,8 @@ To find a path from the top-left to the bottom-right corner of a maze using back
 ```py
 /*
 Program to implement Rat in a Maze.
-Developed by: SRIRAJ G
-Register Number:  212222040161
+Developed by: PON NAGARAJAN M
+Register Number:  212222040115
 */
 N = 4
  
